@@ -1,0 +1,175 @@
+h1 {
+  text-align: center;
+  color: #473441;
+}
+
+figure {
+  border: 2px solid#c4cad0;
+  border-radius: 2%;
+  margin: 15px;
+  padding: 2%;
+}
+.titlepic {
+  display: flex;
+  justify-content: center;
+}
+.titlechild {
+  flex: 1;
+}
+#image {
+  max-width: 75%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+}
+#danceclassimg {
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+}
+#ballerinaimg {
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+}
+#julesimg {
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+}
+.danceparent {
+  display: flex;
+}
+.dance1 {
+  flex: 4;
+}
+.dance2 {
+  flex: 2;
+}
+.dance3 {
+  flex: 2;
+}
+#sculptballet {
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+}
+#sculptsketch {
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+}
+.sculptparent {
+  display: flex;
+}
+.sculptballerina {
+  flex: 1;
+}
+.sculptsketchballet {
+  flex: 1;
+}
+.moreimgparent {
+  display: flex;
+}
+.more1 {
+  flex: 1;
+}
+.more2 {
+  flex: 1;
+}
+.more3 {
+  flex: 1;
+}
+.more4 {
+  flex: 1;
+}
+.more5 {
+  flex: 1;
+}
+.more6 {
+  flex: 1;
+}
+#more1 {
+  max-width: 90%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: solid #c4cad0;
+  border-radius: 2%;
+  padding: 2%;
+}
+#more2 {
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: solid #c4cad0;
+  border-radius: 2%;
+  padding: 2%;
+}
+#more3 {
+  max-width: 70%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: solid #c4cad0;
+  border-radius: 2%;
+  padding: 2%;
+}
+#more4 {
+  max-width: 87%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: solid#c4cad0;
+  border-radius: 2%;
+  padding: 2%;
+}
+#more5 {
+  max-width: 81%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: solid #c4cad0;
+  border-radius: 2%;
+  padding: 2%;
+}
+#more6 {
+  max-width: 125%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: solid#c4cad0;
+  border-radius: 2%;
+  padding: 2%;
+}
+
+body {
+  color: #fcf7ff;
+}
+h2 {
+  color: #545658;
+}
+cite {
+  color: #545658;
+}
+p {
+  color: #655560;
+}
+#endlink {
+  color: #655560;
+  border: solid#c4cad0;
+  border-radius: 2%;
+  margin: 2%;
+  padding: 1%;
+}
+#endlink2 {
+  color: #655560;
+  border: solid#c4cad0;
+  border-radius: 2%;
+  margin: 2%;
+  padding: 1%;
+}
